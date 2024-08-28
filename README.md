@@ -1,2 +1,1 @@
-# Grupo-Tecnidiccion
-Grupo tecnidiccion
+# TechPulse
